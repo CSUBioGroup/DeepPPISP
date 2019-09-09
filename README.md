@@ -20,6 +20,7 @@ scikit-learn==0.19.1
   The other details can see the paper and the codes.
  
 # Citation
+Min Zeng, Fuhao Zhang, Fang-Xiang Wu, Yaohang Li, Jianxin Wang, Min Li. Protein-protein interaction site prediction through combining local and global features with deep neural networks. Bioinformatics. DOI:10.1093/bioinformaticsz699
 
 # License
 This project is licensed under the MIT License - see the LICENSE.txt file for details
